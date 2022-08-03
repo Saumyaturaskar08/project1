@@ -1,0 +1,28 @@
+body{
+    background-color:pink;
+
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: black;
+    font-family: @import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Oswald:wght@200&display=swap');;
+}
+
+
+img{
+    width: 150px;  
+    height: 250px ;
+    margin: 30px auto;
+    display: block;
+}
+.banner{
+    background-color: azure;
+    padding-bottom: 20px;
+}
+p{
+   text-align: center;
+   color: blueviolet; 
+   font-size: 100px;
+   font-weight: 200px;
+}
